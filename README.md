@@ -37,4 +37,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub]([https://GitHub.com/](https://github.com/wdaweb/vue-pomodoro-GUANNIANZIH))
+- [GitHub](https://github.com/wdaweb/vue-pomodoro-GUANNIANZIH)
